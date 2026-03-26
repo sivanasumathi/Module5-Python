@@ -12,8 +12,10 @@ To write a Python program that creates a **Student** class with a **default cons
 
 ## 🧾 Program
 
-Add code here
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7b4d80fd-0e05-4baa-9e86-3358209b2231" />
 
 ## Output
+<img width="1668" height="797" alt="image" src="https://github.com/user-attachments/assets/4021b548-b9e7-4cc2-942d-4b14fb50e2dd" />
 
 ## Result
+Thus the program was successfully executed.and obtained the result
