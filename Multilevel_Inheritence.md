@@ -72,6 +72,7 @@ print("Location:", obj.getLocation())
 ## Sample Output
 <img width="1673" height="787" alt="image" src="https://github.com/user-attachments/assets/efa329b3-8044-457a-ab63-2dc38a884c0a" />
 
-**##Result**
+##Result
+
 Thus the program was successfully executed.and obtained the result
 
