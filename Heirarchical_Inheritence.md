@@ -31,6 +31,10 @@ To write a Python program that uses **Hierarchical Inheritance** to input and di
 5. Display collected information using class methods.
 
 ## Program
-Add code here
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6116f1ed-8323-4825-b9f0-41248a9e5e42" />
+
 ## Sample Output
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/35c4bce4-dc15-433f-a9f7-563d2ccb3639" />
+## Result
+Thus the program was successfully executed.and obtained the result
 
